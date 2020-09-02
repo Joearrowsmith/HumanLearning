@@ -7,3 +7,4 @@
 | Done | Item            | Instructor |
 |------|-----------------|------------|
 |      | Explore pytorch | Joe        |
+|      | Algebraic Top   | Tom        | 
